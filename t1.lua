@@ -1,0 +1,2 @@
+require "tprint"
+print(tprint)
